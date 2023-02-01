@@ -1,0 +1,6 @@
+var myComment = 1;
+while(myComment <= 39) {
+    console.log('Today I am feeling dull !!')
+    console.log(myComment);
+    myComment++;
+}
